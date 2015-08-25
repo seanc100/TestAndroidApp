@@ -21,7 +21,7 @@ public class JacksonExampleTest extends TestCase {
 
         System.out.println("Running testJacksonExampleTest::testJsonFromString");
         JacksonExample jacksonExample = new JacksonExample();
-        ThubUser thubUser = jacksonExample.generateJsonFromString("{\"age\":300,\"name\":\"Joe Brown\",\"messages\":[\"msg 111\",\"msg 211\",\"msg 311\"]}");
+        ThubUser thubUser = jacksonExample.generateJsonFromString("{\"age\":30,\"name\":\"Joe Brown\",\"messages\":[\"msg 111\",\"msg 211\",\"msg 311\"]}");
 
         assertEquals(thubUser.getName(), "Joe Brown");
     }
