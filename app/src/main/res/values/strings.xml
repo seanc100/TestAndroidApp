@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">TrustHub</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_logo">Main Logo</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="title_activity_verify">VerifyActivity</string>
+    <string name="photoUploadText">Tap here to take a photo of your face</string>
+    <string name="photoplaceholdername">PhotoPlaceholder</string>
+    <string name="title_activity_confirm_photo">ConfirmPhotoActivity</string>
+    <string name="title_activity_phone_number">PhoneNumberActivity</string>
+    <string name="phoneNumberLookingGood_text">Looking Good!</string>
+    <string name="phoneNumberEnterText">Now enter your phone number below</string>
+    <string name="uploadPhotoButtonText">Lets Go!</string>
+    <string name="usePhotoBtn">Use Photo</string>
+    <string name="retakePhotoBtn">Retake Photo</string>
+    <string name="CancelPhotoBtn">Cancel</string>
+    <string name="photo_review_text">Looking Good!</string>
+    <string name="verifyCodeText">Enter the code we just sent you</string>
+    <string name="verifyBtnText">Let\'s Go!</string>
+    <string name="PhoneNumberActivityBtn">Let\'s Go!</string>
+    <string name="title_activity_trust_hub_number">TrustHubNumberActivity</string>
+    <string name="helloText">Hi your TrustHub ID is:</string>
+    <string name="trustHubIDText">SNA 324</string>
+    <string name="trusthubNumberMainText">You can put this in your ad instead of your phone number or search for others using theirs</string>
+    <string name="YourTrusthubBtn">Your TrustHubs</string>
+    <string name="verifyCode"/>
+    <string name="phoneNumber"/>
+    <string name="SearchTrustHubsBtn">Search TrustHubs</string>
+    <string name="title_activity_your_trust_hubs">YourTrustHubsActivity</string>
+    <string name="title_activity_search_trust_hubs">SearchTrustHubsActivity</string>
+    <string name="searchTrustHubText">Enter phone number or TrustHub ID</string>
+    <string name="SearchButon">Search</string>
+    <string name="title_activity_search_results">SearchResultsActivity</string>
+    <string name="title_activity_view_trust_hub_user">ViewTrustHubUserActivity</string>
+    <string name="friendsInCommon">Friends In Common: 10</string>
+    <string name="trustHubUserPhoneNumber">Ph: 089 546 8456</string>
+    <string name="trusthubUserName">Rob</string>
+    <string name="trustHubuserScore">95%</string>
+    <string name="ReportBtn">Report</string>
+    <string name="DeleteBtn">Delete</string>
+    SearchTrustHubsBtn
+</resources>
